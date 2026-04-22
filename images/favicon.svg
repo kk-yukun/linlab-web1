@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-labelledby="title desc">
+  <title id="title">Lin Lab favicon</title>
+  <desc id="desc">Monogram-style icon for Lin Lab.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f2740" />
+      <stop offset="100%" stop-color="#1e5f74" />
+    </linearGradient>
+  </defs>
+  <rect width="128" height="128" rx="28" fill="url(#bg)" />
+  <path d="M38 28v72h46v-12H52V28H38z" fill="#f5f1e8" />
+  <path d="M70 30c16 0 28 12 28 32s-12 32-28 32h-8V82h8c9 0 16-8 16-20s-7-20-16-20h-8V30h8z" fill="#8fd0c4" />
+  <circle cx="94" cy="30" r="7" fill="#8fd0c4" />
+</svg>
